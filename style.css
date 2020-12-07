@@ -37,6 +37,10 @@ button {
     overflow-x: auto;
     white-space: nowrap;
 }
+
+#profilePictureDiv {
+    text-align: center;
+}
  
 #statusMessage {
     position: relative;
